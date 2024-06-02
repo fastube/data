@@ -1,5 +1,5 @@
-const idlist = ["N18czV5tj5o","1wrN9nkbe1c"];
-const Data = [
+idlist = ["N18czV5tj5o","1wrN9nkbe1c"];
+Data = [
     {
       "judul":"How to Get YouTube API Key",
       "channeldurasi":"<span class='channel'>WebbyFan</span><span>02:26</span>",
