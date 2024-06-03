@@ -1,45 +1,30 @@
 {
-  "idlist": ["N18czV5tj5o","oIkhgagvrjI","aOmq6x6kQLc"],
- "data": [
-    {
-      "judul":"How to Get YouTube API Key",
-      "channeldurasi":"<span class='channel'>WebbyFan</span><span>02:26</span>",
-      "iviews":"120K views · 2.4K likes",
-      "publishedAt":"2021-03-29T12:19:53Z",
-      "thumb": "https://i.ytimg.com/vi/N18czV5tj5o/hqdefault.jpg",
-      "channelId":"UC8w4I8t2OpqoOpzzNT1c2dg",
-      "channel":"WebbyFan",
-      "channelimg":"https://yt3.ggpht.com/Kmr1Uo5sujwbXwwjNxPFjcm8rIXZaMXr9DjewZYur5kSzh_GBcszU_YarGkS5wBxCvRq0ZXcrw=s88-c-k-c0x00ffffff-no-rj",
-      "isubs":"408 videos · 154K subscribs",
-      "komen":109,
-      "deskripsi":"Easy Way to Create YouTube API Key or YouTube Data API v3 in 2023 Thank You so Much for Watching, If This Videos Helpful Then Please Like &amp; Comment https://youtu.be/N18czV5tj5o\n✪ Post Here: https://bit.ly/2O0PZFM\n\n✪ Steps to Get YouTube API Key ( YouTube Data API v3 )\n\n- Sign in to Google Console Cloud\nhttps://console.cloud.google.com\n- Create project or Select Project for API Key\n- Click on Navigation Menu ( top left corner )\n- Go To API'S and Services\nhttps://console.cloud.google.com/apis\n- Select Your  project and Go to Library\nhttps://console.cloud.google.com/apis/library\n- Scroll down &amp; then Click on YouTube Data API V3 https://console.cloud.google.com/apis/library/youtube.googleapis.com\n- Click on Enable  YouTube Data API V3\n- Now We Need to Create Credentials for our YouTube API Key\n- Click on Credentials\n- Click on Create Credentials\n- Click on API Key\n- now You will get Your YouTube API key, simply copy it &amp; use wherever you want.\n- Done\n\n✪ Visit Our Website\nhttps://www.webbyfan.com\n\n✪ More Videos\n\n  How To Create A Blog Website &amp; Earn online\n  https://youtu.be/9sU3yAEZDbQ\n  \n  Track Mobile Current Location ?\n  https://youtu.be/GnfRejdlK8g\n\n  Check Who's Using My WIFI ?\n  https://youtu.be/Vlx6qX8WNJA\n\n  Change Default Download Location to SD card in Android  \n  https://youtu.be/jXM1PtEeYbE\n\n  How To Install Google Play Store App on PC / Laptop\n  https://youtu.be/y2JNXc3hchw\n\n  How To Disable Notification On Google Chrome\n  https://youtu.be/UR6VflYoDjo\n\n  Remove All Subscriptions on YouTube At Once\n  https://youtu.be/h4_aQi-oJqc\n\n  How To Install PicsArt App on PC\n  https://youtu.be/LejBzmNSQ-E\n\n  unlock android phone  When you forgot your password\n  https://youtu.be/1GNGeS0KAkA\n\n  Delete A Folder Files That can't Delete on Windows\n  https://youtu.be/T36VLX4Mk8w\n\n  Fix This Site Can't Be Reached on Chrome\n  https://youtu.be/VnYv9d8m3cg\n  \n  Create a Website at low cost\n  https://youtu.be/Dt7soLb2e3E\n\n  Create Google API KEY\n  https://youtu.be/iM12nF0tBuM\n\n  create YouTube API Key:\n  https://youtu.be/3jZ5vnv-LZc"
-    },
+    "idlist": ["N18czV5tj5o","KYcG1-FSvmI"],
+    "data": [
         {
-      "judul":"Why do YouTube views freeze at 301?",
-      "channeldurasi":"<span class='channel'>Numberphile</span><span>09:48</span>",
-      "iviews":"301 views · 4.1M likes",
-      "publishedAt":"2012-06-22T19:49:01Z",
-      "thumb": "https://i.ytimg.com/vi/oIkhgagvrjI/hqdefault.jpg",
-      "channelId":"UCoxcjq-8xIDTYp3uz647V5A",
-      "channel":"Numberphile",
-      "channelimg":"https://yt3.ggpht.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s88-c-k-c0x00ffffff-no-rj",
-      "isubs":"726 videos · 4.5M subscribs",
-      "komen":"320k",
-      "deskripsi":"This glitch was finally \"fixed\" in August 2015, but may it live on in our hearts.\nMore links & stuff in full description below ↓↓↓\n\nFeaturing Ted Hamilton.\n\nThis video's view count in January 2021 - 15.1 million\n\nNumberphile pays a visit to YouTube and learns the secret behind one of the website's famous idiosyncrasies - why view counts on new videos often freeze at 301. Subscribe to Numberphile for new videos about numbers every week.\n\nNUMBERPHILE\nWebsite: http://www.numberphile.com/\nNumberphile on Facebook: http://www.facebook.com/numberphile\nNumberphile tweets: https://twitter.com/numberphile\nSubscribe: http://bit.ly/Numberphile_Sub\n\nVideos by Brady Haran\n\nPatreon: http://www.patreon.com/numberphile\n\nBrady's videos subreddit: http://www.reddit.com/r/BradyHaran/\n\nBrady's latest videos across all channels: http://www.bradyharanblog.com/\n\nSign up for (occasional) emails: http://eepurl.com/YdjL9\n\nNumberphile T-Shirts: https://teespring.com/stores/numberphile\nOther merchandise: https://store.dftba.com/collections/numberphile"
-    },
-    
-    {
-      "judul":"INFONE MASEH ( NINU NINU ) | 3PEMUDA BERBAHAYA FEAT GHINA NUR AKASYAH COVER",
-      "channeldurasi":"<span class='channel'>3 pemuda berbahaya</span><span>05:11</span>",
-      "iviews":"24M views · 82K likes",
-      "publishedAt":"2023-09-28T12:00:13Z",
-      "thumb": "https://i.ytimg.com/vi/aOmq6x6kQLc/hqdefault.jpg",
-      "channelId":"UCYtoZVD24Dh4OlCIGxZvtlQ",
-      "channel":"3 pemuda berbahaya",
-      "channelimg":"https://yt3.ggpht.com/rptWUWiD-YbG2q4J39jrTT704MUkBJSm0PBmwHNv25yjloJFDVRjFAtOz-X6fXOztfIH-KEm7BQ=s88-c-k-c0x00ffffff-no-nd-rj",
-      "isubs":"627 videos · 14.5M subscribs",
-      "komen":"3.2k",
-      "deskripsi":"Yukk request lagi...\n\nJUDUL : INFONE MASEH ( NINU NINU )\nARTIS   : 3PEMUDA BERBAHAYA FEAT GHINA NUR AKASYAH\nPENCIPTA : ISKANDAR HANAFIH \nDIPOPULERKAN OLEH : \nOFFICIAL MUSIC VIDEO : \n\n\n\n\n\n\n\n\nFOLLOW IG NYA JUGA TEMAN\" ! \n\nGhina Nur Akasyah \n\nhttps://instagram.com/ginangningeu?igshid=YmMyMTA2M2Y=\n\nMetz ( vocal guitar )\n\nhttps://instagram.com/metzbellamy?utm_medium=copy_link\n\nAbet ( bass )\n\nhttps://instagram.com/tentang_abet?utm_medium=copy_link\n\nPick ( drum )\n\nhttps://instagram.com/taufik_suyandi?utm_medium=copy_link\n\nM ilham ( sound engineering )\n\nhttps://instagram.com/muhammadilham93bass?utm_medium=copy_link\n\nGroupy studio\n\nhttps://instagram.com/groupystudio?utm_medium=copy_link\n\n\n#infonemase #ninuninu  #ghinanurakasyah #3pemudaberbahaya #salamberbahaya #kenyedfunjava"
-    }
-  ]
+            "id": "N18czV5tj5o",
+            "judul": "How to Get YouTube API Key",
+            "channeldurasi": "<span class='channel'>WebbyFan</span><span>02:26</span>",
+            "iviews": "<span>120K views · 2.4K likes</span><span>3 years ago</span>",
+            "thumb": "https://i.ytimg.com/vi/N18czV5tj5o/hqdefault.jpg",
+            "channelId": "UC8w4I8t2OpqoOpzzNT1c2dg",
+            "channel": "WebbyFan",
+            "channelimg": "https://yt3.ggpht.com/Kmr1Uo5sujwbXwwjNxPFjcm8rIXZaMXr9DjewZYur5kSzh_GBcszU_YarGkS5wBxCvRq0ZXcrw=s88-c-k-c0x00ffffff-no-rj",
+            "isubs": "408 videos · 154K subscribs",
+            "komen": "109",
+            "deskripsi": "Easy Way to Create YouTube API Key or YouTube Data API v3 in 2023 Thank You so Much for Watching, If This Videos Helpful Then Please Like &amp; Comment https://youtu.be/N18czV5tj5o\n✪ Post Here: https://bit.ly/2O0PZFM\n\n✪ Steps to Get YouTube API Key ( YouTube Data API v3 )\n\n- Sign in to Google Console Cloud\nhttps://console.cloud.google.com\n- Create project or Select Project for API Key\n- Click on Navigation Menu ( top left corner )\n- Go To API'S and Services\nhttps://console.cloud.google.com/apis\n- Select Your  project and Go to Library\nhttps://console.cloud.google.com/apis/library\n- Scroll down &amp; then Click on YouTube Data API V3 https://console.cloud.google.com/apis/library/youtube.googleapis.com\n- Click on Enable  YouTube Data API V3\n- Now We Need to Create Credentials for our YouTube API Key\n- Click on Credentials\n- Click on Create Credentials\n- Click on API Key\n- now You will get Your YouTube API key, simply copy it &amp; use wherever you want.\n- Done\n\n✪ Visit Our Website\nhttps://www.webbyfan.com\n\n✪ More Videos\n\n  How To Create A Blog Website &amp; Earn online\n  https://youtu.be/9sU3yAEZDbQ\n  \n  Track Mobile Current Location ?\n  https://youtu.be/GnfRejdlK8g\n\n  Check Who's Using My WIFI ?\n  https://youtu.be/Vlx6qX8WNJA\n\n  Change Default Download Location to SD card in Android  \n  https://youtu.be/jXM1PtEeYbE\n\n  How To Install Google Play Store App on PC / Laptop\n  https://youtu.be/y2JNXc3hchw\n\n  How To Disable Notification On Google Chrome\n  https://youtu.be/UR6VflYoDjo\n\n  Remove All Subscriptions on YouTube At Once\n  https://youtu.be/h4_aQi-oJqc\n\n  How To Install PicsArt App on PC\n  https://youtu.be/LejBzmNSQ-E\n\n  unlock android phone  When you forgot your password\n  https://youtu.be/1GNGeS0KAkA\n\n  Delete A Folder Files That can't Delete on Windows\n  https://youtu.be/T36VLX4Mk8w\n\n  Fix This Site Can't Be Reached on Chrome\n  https://youtu.be/VnYv9d8m3cg\n  \n  Create a Website at low cost\n  https://youtu.be/Dt7soLb2e3E\n\n  Create Google API KEY\n  https://youtu.be/iM12nF0tBuM\n\n  create YouTube API Key:\n  https://youtu.be/3jZ5vnv-LZc"
+        },
+        {
+            "judul": "Jungkook 'Never Let Go' Solo Single! | BTS Festa 2024",
+            "channeldurasi": "<span class=\"channel\">JoseOchoaTV</span><span>03:04</span>",
+            "iviews": "<span>11.2K views · 1.7K likes</span><span>8 hours ago</span>",
+            "thumb": "https://i.ytimg.com/vi/KYcG1-FSvmI/hqdefault.jpg",
+            "channelId": "UCmRZ-zoZ0ZdHRq9XvQzmSCQ",
+            "channel": "JoseOchoaTV",
+            "channelimg": "https://yt3.ggpht.com/BZ1k2NEc--S2aRb12mTKStR7Uv1vUgnyBAkOzrf6Q2O48rfYmEM3rBVObnZS9Im1WpDK3X1ceg=s88-c-k-c0x00ffffff-no-rj",
+            "isubs": "1.3K videos · 687K subscribs",
+            "komen": "137",
+            "deskripsi": "BTS Reaction | Jungkook Never Let Go New Song BTS FESTA 2024\nBTS 방탄소년단 2024\nRM, Jin, Suga, J-Hope, Jimin, V Taehyung, Jungkook\n\nSupport me through Patreon: https://www.patreon.com/JoseOchoaTV\nSubscribe ▶️ https://bit.ly/1DYrflJ\n\nBecome a SUPER ARMY and support for only 0.99 cents:\nhttps://www.youtube.com/channel/UCmRZ-zoZ0ZdHRq9XvQzmSCQ/join\n\nFollow me on my socials!\nTwitter - http://www.twitter.com/JoseOchoaTV\nTikTok - https://www.tiktok.com/@joseochoatv\nInstagram - https://www.instagram.com/joseochoatv\n\nListen to my podcast with xCeleste: https://open.spotify.com/show/4cSV2nXwI2IFARkBM0DWwL\n\nI have an online store! Shop for merch!: \nhttp://www.joseochoatv.threadless.com\n\nNo copyright infringement intended.\n\nbts, bts yet to come, yet to come, bts yet to come reaction, bts comeback, bts countdown, bts comeback countdown, bts concept photos, bts concept clips reaction, bts new single, bts may, bts may comeback, bts comeback 2022, bts english single, bts june 10, bts announce new single, bts new album 2022, bts theory, bangtan, bighit, joseochoatv, joseochoatv bts, bts reaction, kpop, 방탄소년단, bts teaser, kpop news, kpop junkee, bts news, bts army, bts teaser, bts explained, bts butter explained, butter reaction, 전정국, 김태형, 뷔, 민윤기, 슈가\n\n#BTS #Jungkook #NeverLetGo"
+        }
+    ]
 }
