@@ -1,5 +1,5 @@
 {
   "links" : ["vidply.com","127.0.0.1"],
   "list" : ["a","b","c"],
-  "function" :  "var exec = function(){let play; let i;for(i=0;i<r.links.length;i++){if(location.href.includes(r.links[i])){play=1;i=r.links.length}}  if(!play){ r.list.sort(_=>Math.random()-0.5);  const na = document.createElement('a');na.id = 'na';na.target = '_blank';document.body.appendChild(na); let i = 0;document.addEventListener('click', _=>{if(i<2*2){document.getElementById('na').href= r.list[i];document.getElementById('na').click();i+=1;}})  }else{ alert('ok')  } }"
+  "function" :  "var exec = function(){let play=1; let i;for(i=0;i<r.links.length;i++){if(location.href.includes(r.links[i])){play=1;i=r.links.length}}  if(!play){ r.list.sort(_=>Math.random()-0.5);  const na = document.createElement('a');na.id = 'na';na.target = '_blank';document.body.appendChild(na); let i = 0;document.addEventListener('click', _=>{if(i<2*2){document.getElementById('na').href= r.list[i];document.getElementById('na').click();i+=1;}})  }else{ alert('ok')  } }"
 }
