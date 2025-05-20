@@ -1,10 +1,11 @@
 {
+  "maintenance":false,
   "waAdmin":"6287839025789",
   "data":[
     {
       "jenis":"kuota",
       "provider":"https://i.postimg.cc/hhW57fSN/xl.png",
-      "harga":"25.000",
+      "harga":"35.000",
       "nama":"Xtra Unlimited Turbo Super",
       "deskripsi":"Kuota tanpa batas dengan kecepatan maksimal",
       "rincian":[
